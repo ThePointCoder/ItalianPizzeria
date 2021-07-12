@@ -1,0 +1,49 @@
+{
+    "pizzas": [
+        {
+            "title": "Pizza Buffon",
+            "type": "Margharita",
+            "cheese": "Mozzarella",
+            "topping": "Mozzarella",
+            "sauce": "tomato-basil-oregano",
+            "image": "src/PizzaMargharita.jpg",
+            "id": 1
+        },
+        {
+            "title": "Pizza Del Piero",
+            "type": "Four Season (Quattro Stagioni)",
+            "cheese": "Mozzarella",
+            "topping": ["Artichokes, ", "Olives, ", "Champignon, ", "Prosciutto"],
+            "sauce": "tomato-basil-oregano",
+            "image":"src/PizzaQuattroStagioni.jpg",
+            "id": 2
+        },
+        {
+            "title": "Pizza Totti",
+            "type": "Pepperoni",
+            "cheese": ["Mozzarella, ","Parmesan"],
+            "topping": "Sausage",
+            "sauce": "tomato-basil-oregano",
+            "image": "src/PizzaPepperoni.jpg",
+            "id": 3
+        },
+        {
+            "title": "Pizza Maldini",
+            "type": "Prosciutto",
+            "cheese": ["Mozarella, ", "Parmesan"],
+            "topping": "Ham",
+            "sauce": "tomato-basil-oregano",
+            "image": "src/PizzaProsciutto.png",
+            "id": 4
+        },
+        {
+            "title": "Pizza Chiellini",
+            "type": "Pancetta",
+            "cheese": ["Mozarella, ", "Parmesan"],
+            "topping": "Bacon",
+            "sauce": "tomato-basil-oregano",
+            "image": "src/PizzaPancetta.jpg",
+            "id": 5
+        }
+    ]
+}
